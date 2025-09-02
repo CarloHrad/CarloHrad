@@ -7,11 +7,9 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Web and Game development
   --> My name is Carlos Vinicius
-  --> Analysis and Systems Development student
-  
-  --> eighteen(18) years old 
-  
+  --> A technology enthusiast and student passionate about software development, programming, and problem-solving. 
+  --> Back-end developer
   --> Brazilian.
 
-  Programming Languages: C, Python, C#
+  Tech & Tools: C, C#, Java, Spring Boot, Swagger, PostgreSQL, MySQL...
   
